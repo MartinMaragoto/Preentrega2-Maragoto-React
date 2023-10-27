@@ -1,0 +1,22 @@
+.divCartLogo {
+
+    display: flex;
+    justify-content: flex-end;
+    width: 10vw;
+    font-size: 2vw; /* afecta al numero del carrito */
+    
+}
+
+.cartLogo {
+
+    height: 60%;
+    width: 60%;
+
+}
+
+.cartAmountNumber {
+
+    color: #ffffff;
+    margin-top: 3vw;
+    font-family: "Technica" ;
+}

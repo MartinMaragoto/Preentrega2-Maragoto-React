@@ -1,0 +1,11 @@
+
+@font-face {
+    font-family: "Technica" ;
+    src: url(technica.ttf);
+}
+.subtitle {
+
+    text-align: center;
+    color: #7c9bff;
+
+}
