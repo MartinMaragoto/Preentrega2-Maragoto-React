@@ -1,8 +1,8 @@
 const misProductos = [
-    { id: '1', nombre: 'Auriculares Retro Idance', precio: 'USD 150', img: 'public/retroAuriculares.png', idCat: '1' },
-    { id: '2', nombre: 'Camara Instantanea Fujifilm', precio: 'USD 100', img: 'public/camaraInstantanea.jpg', idCat: '2' },
-    { id: '3', nombre: 'Tocadiscos Gadnic', precio: 'USD 200', img: 'public/tocadiscos.png', idCat: '3' },
-    { id: '4', nombre: 'Consola Retro Sup', precio: 'USD 50', img: 'public/consolaretrosup.png', idCat: '4' }
+    { id: '1', nombre: 'Auriculares Retro Idance', precio: 'USD 150', img: '/retroAuriculares.png', idCat: '1' },
+    { id: '2', nombre: 'Camara Instantanea Fujifilm', precio: 'USD 100', img: '/camaraInstantanea.jpg', idCat: '2' },
+    { id: '3', nombre: 'Tocadiscos Gadnic', precio: 'USD 200', img: '/tocadiscos.png', idCat: '3' },
+    { id: '4', nombre: 'Consola Retro Sup', precio: 'USD 50', img: '/consolaretrosup.png', idCat: '4' }
 
 
 
